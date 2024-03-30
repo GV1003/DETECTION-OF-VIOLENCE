@@ -1,2 +1,2 @@
-# TNDSCC
-Detection of violence in a video using CNN and LSTM. This project mainly aims to detect the violence shown in a video.
+Detection of a violence event in surveillance systems is playing a significant role in law enforcement and city safety. The effectiveness of violence event detectors measures by the speed of response and the accuracy and the generality over different kind of video sources with a different format.
+In this project, I proposed a real-time violence detector based on deep-learning methods. The proposed model consists of CNN as a spatial feature extractor and LSTM as temporal relation learning method with a focus on the three-factor (overall generality - accuracy - fast response time).
